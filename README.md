@@ -390,13 +390,6 @@ npm run test -- --coverage
 
 MIT License - see LICENSE file for details.
 
-## Support
-
-- 📖 [Documentation](https://github.com/your-repo/angular-to-react-codemod)
-- 🐛 [Issue Tracker](https://github.com/your-repo/angular-to-react-codemod/issues)
-- 💬 [Discussions](https://github.com/your-repo/angular-to-react-codemod/discussions)
-
----
 
 **Note**: This codemod provides a solid foundation for migration but manual review and testing of the generated code is recommended for production applications.
 # codmod-angular-to-react-convert-project

@@ -392,5 +392,3 @@ MIT License - see LICENSE file for details.
 
 
 **Note**: This codemod provides a solid foundation for migration but manual review and testing of the generated code is recommended for production applications.
-# codmod-angular-to-react-convert-project
-# codmod-angular-to-react-convert-project
